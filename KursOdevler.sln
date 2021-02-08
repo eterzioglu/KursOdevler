@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursOdevler", "KursOdevler\KursOdevler.csproj", "{87EE94E2-31ED-444B-AE77-F2C4A5982276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3Odev3", "Ders3Odev3\Ders3Odev3.csproj", "{F7503D3F-329E-4E29-8668-13E0DAB24866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EE94E2-31ED-444B-AE77-F2C4A5982276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EE94E2-31ED-444B-AE77-F2C4A5982276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EE94E2-31ED-444B-AE77-F2C4A5982276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EE94E2-31ED-444B-AE77-F2C4A5982276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7503D3F-329E-4E29-8668-13E0DAB24866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7503D3F-329E-4E29-8668-13E0DAB24866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7503D3F-329E-4E29-8668-13E0DAB24866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7503D3F-329E-4E29-8668-13E0DAB24866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D099639-3FCD-4023-B960-7375B551530E}
+	EndGlobalSection
+EndGlobal
