@@ -6,7 +6,6 @@ namespace ClassMetotDemo
 {
     class MusteriManager
     {
-
         public void Ekle(Musteri musteri, List<Musteri> musteriler)
         {
             Console.WriteLine("Tebrikler Müsteri Eklendi : " + musteri.Ad + " " + musteri.Soyad);
